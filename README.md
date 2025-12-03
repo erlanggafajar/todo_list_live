@@ -1,70 +1,71 @@
 # Live To-Do List
 
-A modern, feature-rich Flutter todo list application with local notifications and deadline reminders. Built with Flutter and Material 3 design principles for a beautiful and intuitive user experience.
+Aplikasi daftar tugas (to-do list) Flutter yang modern dan kaya fitur dengan notifikasi lokal dan pengingat tenggat waktu. Dibangun dengan Flutter dan prinsip desain Material 3 untuk pengalaman pengguna yang indah dan intuitif.
 
-## Features
+## Fitur
 
-- **Task Management**: Create, edit, and delete tasks with ease
-- **Deadline Reminders**: Set due dates and times for your tasks
-- **Local Notifications**: Get notified when tasks are due
-- **Dark/Light Theme**: Built-in theme support for comfortable viewing
-- **Local Storage**: All data is saved locally using SharedPreferences
-- **Responsive Design**: Works on various screen sizes and orientations
-- **Modern UI**: Clean and intuitive Material 3 interface
-- **Real-time Updates**: Tasks are updated in real-time
+- **Manajemen Tugas**: Buat, edit, dan hapus tugas dengan mudah
+- **Pengingat Tenggat Waktu**: Atur tanggal dan waktu jatuh tempo untuk tugas Anda
+- **Notifikasi Lokal**: Dapatkan pemberitahuan saat tugas jatuh tempo
+- **Tema Gelap/Terang**: Dukungan tema bawaan untuk kenyamanan tampilan
+- **Penyimpanan Lokal**: Semua data disimpan secara lokal menggunakan SharedPreferences
+- **Desain Responsif**: Berjalan dengan baik pada berbagai ukuran layar dan orientasi
+- **UI Modern**: Antarmuka Material 3 yang bersih dan intuitif
+- **Pembaruan Real-time**: Tugas diperbarui secara _real-time_
 
-## Getting Started
+## Memulai
 
-### Prerequisites
+### Prasyarat
 
-- Flutter SDK (latest stable version)
-- Android Studio / Xcode (for emulator/simulator)
-- VS Code or Android Studio with Flutter plugins (recommended)
+- Flutter SDK (versi stabil terbaru)
+- Android Studio / Xcode (untuk emulator/simulator)
+- VS Code atau Android Studio dengan plugin Flutter (disarankan)
 
-### Installation
+### Instalasi
 
-1. Clone the repository:
+1. Kloning repositori:
 
    ```bash
-   git clone https://github.com/yourusername/todo_list_live.git
+   git clone [https://github.com/yourusername/todo_list_live.git](https://github.com/yourusername/todo_list_live.git)
    cd todo_list_live
    ```
 
-2. Install dependencies:
+2. Instal dependensi:
 
    ```bash
    flutter pub get
    ```
 
-3. Run the app:
+3. Jalankan aplikasi:
+
    ```bash
    flutter run
    ```
 
-## Screenshots
+## Tangkapan Layar
 
 [-]
 
-## 🛠 Built With
+## 🛠 Dibangun Dengan
 
-- [Flutter](https://flutter.dev/) - Beautiful native apps in record time
-- [shared_preferences](https://pub.dev/packages/shared_preferences) - Local data persistence
-- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) - For showing local notifications
-- [intl](https://pub.dev/packages/intl) - Date and time formatting
+- [Flutter](https://flutter.dev/) - Aplikasi native yang indah dalam waktu singkat
+- [shared_preferences](https://pub.dev/packages/shared_preferences) - Persistensi data lokal
+- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications) - Untuk menampilkan notifikasi lokal
+- [intl](https://pub.dev/packages/intl) - Pemformatan tanggal dan waktu
 
-## License
+## Lisensi
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Proyek ini dilisensikan di bawah Lisensi MIT - lihat file [LICENSE](LICENSE) untuk detailnya.
 
-## Team
+## Tim
 
 - [Erlangga Fajar Ramadhan](https://github.com/erlanggafajar)
 - [Ardin Ariantana Putra](https://github.com/ardinariantanaputra)
 - [Ardhi Feisal Wijayanto](https://github.com/ArdhiFeisal03)
 - [Moh Teguh Purwanto](https://github.com/mteguhpro)
 
-## Acknowledgments
+## Ucapan Terima Kasih
 
-- Flutter team for the amazing framework
-- Material Design team for the beautiful UI components
-- All open-source contributors of the packages used in this project
+- Tim Flutter untuk framework yang luar biasa
+- Tim Material Design untuk komponen UI yang indah
+- Semua kontributor _open-source_ dari paket-paket yang digunakan dalam proyek ini

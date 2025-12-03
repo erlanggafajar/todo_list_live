@@ -60,8 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Erlangga Fajar Ramadhan](https://github.com/erlanggafajar)
 - [Ardin Ariantana Putra](https://github.com/ardinariantanaputra)
-- [Ardhi Feisal Wijayanto](https://github.com/
-  ArdhiFeisal03)
+- [Ardhi Feisal Wijayanto](https://github.com/ArdhiFeisal03)
 - [Moh Teguh Purwanto](https://github.com/mteguhpro)
 
 ## Acknowledgments

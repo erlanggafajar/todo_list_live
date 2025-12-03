@@ -58,10 +58,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Team
 
-- [Erlangga Fajar Ramadhan](https://github.com/username1)
-- [Ardin Ariantana Putra](https://github.com/username2)
-- [Ardhi Feisal Wijayanto](https://github.com/username3)
-- [Moh Teguh Purwanto](https://github.com/username4)
+- [Erlangga Fajar Ramadhan](https://github.com/erlanggafajar)
+- [Ardin Ariantana Putra](https://github.com/ardinariantanaputra)
+- [Ardhi Feisal Wijayanto](https://github.com/
+  ArdhiFeisal03)
+- [Moh Teguh Purwanto](https://github.com/mteguhpro)
 
 ## Acknowledgments
 

@@ -26,7 +26,8 @@ Aplikasi daftar tugas (to-do list) Flutter yang modern dan kaya fitur dengan not
 1. Kloning repositori:
 
    ```bash
-   git clone [https://github.com/yourusername/todo_list_live.git](https://github.com/yourusername/todo_list_live.git)
+   git clone https://github.com/yourusername/todo_list_live.git
+
    cd todo_list_live
    ```
 
